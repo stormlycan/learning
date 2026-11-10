@@ -1,14 +1,14 @@
 # C and C++ Learning Progress Tracker
 
 ## Completed C Projects
-- [x] Hello World - Basic program structure and output (located in coding/c/c_project_01_hello_world.c)
-- [x] Variables and Input - Declaring variables and reading user input (located in coding/c/c_project_03_variables_and_input.c)
-- [x] Control Structures - If statements and loops (located in coding/c/c_project_04_control_structures.c)
-- [x] Functions - Creating and using functions (located in coding/c/c_project_05_functions.c)
-- [x] Arrays - Declaring, initializing, and using arrays (located in coding/c/c_project_06_arrays.c)
-- [x] Pointers - Understanding and using pointers (located in coding/c/c_project_07_pointers.c)
-- [x] Structures - Defining and using structures (located in coding/c/c_project_08_structures.c)
-- [x] File I/O - Reading from and writing to files (located in coding/c/c_project_09_file_io.c)
+- [x] Hello World - Basic program structure and output (located in coding/c/c_01_hello_world.c)
+- [x] Variables and Input - Declaring variables and reading user input (located in coding/c/c_03_variables_and_input.c)
+- [x] Control Structures - If statements and loops (located in coding/c/c_04_control_structures.c)
+- [x] Functions - Creating and using functions (located in coding/c/c_05_functions.c)
+- [x] Arrays - Declaring, initializing, and using arrays (located in coding/c/c_06_arrays.c)
+- [x] Pointers - Understanding and using pointers (located in coding/c/c_07_pointers.c)
+- [x] Structures - Defining and using structures (located in coding/c/c_08_structures.c)
+- [x] File I/O - Reading from and writing to files (located in coding/c/c_09_file_io.c)
 - [x] Dynamic Memory Allocation - Using malloc, calloc, and free (located in coding/c/c_project_10_dynamic_memory.c)
 
 ## C++ Projects (To Complete)
