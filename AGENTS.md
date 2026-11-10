@@ -131,8 +131,12 @@ Based on the lesson plan, here's our structured learning path:
    - To clean all compiled files: `make clean`
    - To build all projects: `make all`
    (Targets are defined in the Makefile and correspond to your project files)
-5. If you encounter issues, ask me for guidance
-6. Modify the code to experiment with different concepts
+5. After completing each project, commit your changes to Git:
+   - Update `progress_tracker.md` to check off the completed project
+   - Run: `git add .`
+   - Run: `git commit -m "Completed [Project Name]"`
+6. If you encounter issues, ask me for guidance
+7. Modify the code to experiment with different concepts
 
 Remember: The goal is to understand the concepts, not just make the code work. Take your time and ask questions about anything you don't understand!
 

@@ -1,6 +1,10 @@
 # compiled executables
 classes_and_objects
 constructors_destructors
+consDescPrac
+consDescbank
+smart_ptr
+unique_ptr
 inheritance
 polymorphism
 stl_lib

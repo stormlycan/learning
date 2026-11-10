@@ -60,6 +60,9 @@ polymorphism: coding/cpp/cpp_project_15_polymorphism.cpp
 stl_lib: coding/cpp/cpp_project_16_stl.cpp
 	$(CXX) $(CXXFLAGS) -o stl_lib coding/cpp/cpp_project_16_stl.cpp
 
+smart_ptr: coding/cpp/cpp_project_17_smart_pointers.cpp
+	$(CXX) $(CXXFLAGS) -o smart_ptr coding/cpp/cpp_project_17_smart_pointers.cpp
+
 # Clean build files
 clean:
 	rm -f hello_world_c hello_world_cpp cpp_basics classes_and_objects constructors_destructors inheritance polymorphism stl_lib
