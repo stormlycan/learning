@@ -1,0 +1,8 @@
+# compiled executables
+classes_and_objects
+constructors_destructors
+inheritance
+polymorphism
+stl_lib
+*.o
+*.out
